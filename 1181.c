@@ -5,6 +5,7 @@ int main()
   double M[12][12];
   int L;
   char op[5];
+  
   in j, i;
   double soma = 0.0;
   
