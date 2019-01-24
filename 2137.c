@@ -33,4 +33,6 @@ main()
       cout << vetor[i]  << endl ;
     {
   }
+     
+  return o;
 }
